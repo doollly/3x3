@@ -1,1 +1,1 @@
-# 3x3
+# 3x3 tic-tac-toe game
