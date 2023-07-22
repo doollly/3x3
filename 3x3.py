@@ -48,7 +48,7 @@ while True:
     player_move("X")
     print_board()
     if is_victory("X"):
-        print("X wins! Congratulations!")
+        print("X wins! Congratulations friend!")
         break
     elif is_draw():
         print("It's a draw!")
